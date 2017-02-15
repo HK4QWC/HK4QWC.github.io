@@ -1,5 +1,6 @@
-title: Slate theme
-description: Slate is a theme for GitHub Pages.
-show_downloads: true
+title: HK4QWC
+description: Amateur Radio Station
+show_downloads: false
 google_analytics:
-theme: 
+theme: jekyll-theme-cayman
+
